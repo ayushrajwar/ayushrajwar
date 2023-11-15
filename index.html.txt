@@ -1,8 +1,8 @@
 <html>
 	<head>
-		<title></title>
+		<title>GIT HUB</title>
 	</head>
 	<body>
-		<h1>Git hub desktop</h1>
+		<h1>Git hub</h1>
 	</body>
 </html>
